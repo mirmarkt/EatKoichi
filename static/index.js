@@ -345,10 +345,10 @@ function shareText(score) {
 
     if (score === 114) return '哼哼哼啊啊啊啊啊啊啊啊';
 
-    if (score <= 49) return '人间至屑';
-    if (score <= 99) return '斯国一(迫真)';
-    if (score <= 149) return 'sodayo';
-    return '压力马斯内';
+    if (score <= 49) return '有些水友肤浅得不知道说什么好';
+    if (score <= 99) return '你对中单的理解还不及我的皮毛';
+    if (score <= 149) return '吊啊，奈斯！';
+    return '您就是中单之神？';
 }
 
 function toStr(obj) {
